@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fFbGuq6ru32AEvmAnLS4C9TPGVhV+dTW54bOvgyApC0q4VVtraC0bItFlP45okw/ilKRSkMC2XYD5c3E9AoLHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sbeuk\\OneDrive\\FOM\\Repo_IT-Infrastruktur\\WebApplication-ItInfrastr_Serverside\\WebApplication-ItInfrastr_Serverside\\WebApplication-ItInfrastr_Serverside.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sbeuk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
